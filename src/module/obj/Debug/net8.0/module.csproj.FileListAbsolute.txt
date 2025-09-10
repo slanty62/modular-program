@@ -1,0 +1,14 @@
+C:\Users\facei\example\src\module\bin\Debug\net8.0\module.exe
+C:\Users\facei\example\src\module\bin\Debug\net8.0\module.deps.json
+C:\Users\facei\example\src\module\bin\Debug\net8.0\module.runtimeconfig.json
+C:\Users\facei\example\src\module\bin\Debug\net8.0\module.dll
+C:\Users\facei\example\src\module\bin\Debug\net8.0\module.pdb
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.AssemblyInfoInputs.cache
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.AssemblyInfo.cs
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.csproj.CoreCompileInputs.cache
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.dll
+C:\Users\facei\example\src\module\obj\Debug\net8.0\refint\module.dll
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.pdb
+C:\Users\facei\example\src\module\obj\Debug\net8.0\module.genruntimeconfig.cache
+C:\Users\facei\example\src\module\obj\Debug\net8.0\ref\module.dll
